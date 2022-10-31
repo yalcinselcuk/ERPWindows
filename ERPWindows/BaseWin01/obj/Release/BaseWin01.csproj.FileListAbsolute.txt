@@ -1,0 +1,6 @@
+C:\Users\yalci\source\repos\ERPWindows\BaseWin01\bin\Release\BaseWin01.dll
+C:\Users\yalci\source\repos\ERPWindows\BaseWin01\bin\Release\BaseWin01.pdb
+C:\Users\yalci\source\repos\ERPWindows\BaseWin01\obj\Release\BaseWin01.csproj.AssemblyReference.cache
+C:\Users\yalci\source\repos\ERPWindows\BaseWin01\obj\Release\BaseWin01.csproj.CoreCompileInputs.cache
+C:\Users\yalci\source\repos\ERPWindows\BaseWin01\obj\Release\BaseWin01.dll
+C:\Users\yalci\source\repos\ERPWindows\BaseWin01\obj\Release\BaseWin01.pdb

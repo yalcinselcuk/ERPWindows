@@ -1,0 +1,11 @@
+C:\Users\yalci\source\repos\ERPWindows\BaseWin01\bin\Debug\BaseWin01.dll
+C:\Users\yalci\source\repos\ERPWindows\BaseWin01\bin\Debug\BaseWin01.pdb
+C:\Users\yalci\source\repos\ERPWindows\BaseWin01\obj\Debug\BaseWin01.csproj.AssemblyReference.cache
+C:\Users\yalci\source\repos\ERPWindows\BaseWin01\obj\Debug\BaseWin01.csproj.CoreCompileInputs.cache
+C:\Users\yalci\source\repos\ERPWindows\BaseWin01\obj\Debug\BaseWin01.dll
+C:\Users\yalci\source\repos\ERPWindows\BaseWin01\obj\Debug\BaseWin01.pdb
+C:\Users\yalci\source\repos\ERPWindows\BaseWin01\bin\Debug\ERPBase.dll
+C:\Users\yalci\source\repos\ERPWindows\BaseWin01\bin\Debug\ERPBase.pdb
+C:\Users\yalci\source\repos\ERPWindows\BaseWin01\obj\Debug\BaseWin01.popup.resources
+C:\Users\yalci\source\repos\ERPWindows\BaseWin01\obj\Debug\BaseWin01.csproj.GenerateResource.cache
+C:\Users\yalci\source\repos\ERPWindows\BaseWin01\obj\Debug\BaseWin01.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\Users\yalci\source\repos\ERPWindows\ERPBase\bin\Debug\ERPBase.dll
+C:\Users\yalci\source\repos\ERPWindows\ERPBase\bin\Debug\ERPBase.pdb
+C:\Users\yalci\source\repos\ERPWindows\ERPBase\bin\Debug\BaseWin01.dll
+C:\Users\yalci\source\repos\ERPWindows\ERPBase\bin\Debug\BaseWin01.pdb
+C:\Users\yalci\source\repos\ERPWindows\ERPBase\obj\Debug\ERPBase.csproj.AssemblyReference.cache
+C:\Users\yalci\source\repos\ERPWindows\ERPBase\obj\Debug\ERPBase.csproj.CoreCompileInputs.cache
+C:\Users\yalci\source\repos\ERPWindows\ERPBase\obj\Debug\ERPBase.csproj.CopyComplete
+C:\Users\yalci\source\repos\ERPWindows\ERPBase\obj\Debug\ERPBase.dll
+C:\Users\yalci\source\repos\ERPWindows\ERPBase\obj\Debug\ERPBase.pdb

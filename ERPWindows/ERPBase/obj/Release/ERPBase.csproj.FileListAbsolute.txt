@@ -1,0 +1,6 @@
+C:\Users\yalci\source\repos\ERPWindows\ERPBase\bin\Release\ERPBase.dll
+C:\Users\yalci\source\repos\ERPWindows\ERPBase\bin\Release\ERPBase.pdb
+C:\Users\yalci\source\repos\ERPWindows\ERPBase\obj\Release\ERPBase.csproj.AssemblyReference.cache
+C:\Users\yalci\source\repos\ERPWindows\ERPBase\obj\Release\ERPBase.csproj.CoreCompileInputs.cache
+C:\Users\yalci\source\repos\ERPWindows\ERPBase\obj\Release\ERPBase.dll
+C:\Users\yalci\source\repos\ERPWindows\ERPBase\obj\Release\ERPBase.pdb

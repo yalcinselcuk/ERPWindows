@@ -1,0 +1,10 @@
+C:\Users\yalci\source\repos\ERPWindows\ERPWindows\bin\Release\ERPWindows.exe.config
+C:\Users\yalci\source\repos\ERPWindows\ERPWindows\bin\Release\ERPWindows.exe
+C:\Users\yalci\source\repos\ERPWindows\ERPWindows\bin\Release\ERPWindows.pdb
+C:\Users\yalci\source\repos\ERPWindows\ERPWindows\obj\Release\ERPWindows.csproj.AssemblyReference.cache
+C:\Users\yalci\source\repos\ERPWindows\ERPWindows\obj\Release\ERPWindows.csproj.SuggestedBindingRedirects.cache
+C:\Users\yalci\source\repos\ERPWindows\ERPWindows\obj\Release\ERPWindows.Properties.Resources.resources
+C:\Users\yalci\source\repos\ERPWindows\ERPWindows\obj\Release\ERPWindows.csproj.GenerateResource.cache
+C:\Users\yalci\source\repos\ERPWindows\ERPWindows\obj\Release\ERPWindows.csproj.CoreCompileInputs.cache
+C:\Users\yalci\source\repos\ERPWindows\ERPWindows\obj\Release\ERPWindows.exe
+C:\Users\yalci\source\repos\ERPWindows\ERPWindows\obj\Release\ERPWindows.pdb
